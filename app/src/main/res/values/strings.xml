@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestAndroidapp</string>
+    <string name="action_settings">Settings</string>
+    <string name="titlestring">Mahir APP</string>
+    <string name="btnexecute">Execute</string>
+    <string name="statusstring">Status</string>
+</resources>
